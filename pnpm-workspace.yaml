@@ -1,0 +1,7 @@
+packages:
+  - apps/*
+
+# pnpm blocks dependency install scripts by default; allow only the ones we need.
+allowBuilds:
+  esbuild: true
+  better-sqlite3: true

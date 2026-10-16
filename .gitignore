@@ -1,0 +1,45 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# turbo
+.turbo/
+
+# env
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# os / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# other package managers (pnpm only)
+package-lock.json
+yarn.lock
+
+# sqlite database files
+apps/api/data/
+*.db
+*.db-shm
+*.db-wal
+
+# AI assistant docs and settings (kept local, not committed)
+CLAUDE.md
+AGENTS.md
+scratchpad.md
+.claude/

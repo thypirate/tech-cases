@@ -1,0 +1,12 @@
+# Build context is the repo root for both apps. Never send local builds or secrets.
+**/node_modules
+**/.next
+**/dist
+**/.turbo
+**/.env
+**/.env.*
+!**/.env.example
+.git
+.github
+**/data
+scratchpad.md

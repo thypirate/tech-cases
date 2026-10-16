@@ -1,0 +1,2018 @@
+[
+  {
+    "slug": "meta-eu-us-data-transfers-2023",
+    "company": "Meta",
+    "title": "Unlawful EU to US data transfers",
+    "authority": "Irish DPC / EDPB",
+    "jurisdiction": "EU",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 1200000000,
+    "currency": "EUR",
+    "amount_label": "€1.2 billion",
+    "status": "Under appeal",
+    "summary": "Largest GDPR fine ever, for systematically moving European users' data to the US without adequate protection from American surveillance. Meta was also ordered to suspend the transfers.",
+    "sources": [
+      {
+        "label": "European Data Protection Board",
+        "url": "https://edpb.europa.eu/news/news/2023/120-billion-euro-fine-meta-result-edpb-binding-decision_en"
+      },
+      {
+        "label": "Secureframe",
+        "url": "https://secureframe.com/hub/gdpr/fines-and-penalties"
+      },
+      {
+        "label": "TechInformed",
+        "url": "https://techinformed.com/meta-accrues-2-8-billion-in-gdpr-fines/"
+      }
+    ]
+  },
+  {
+    "slug": "meta-instagram-children-2022",
+    "company": "Meta",
+    "title": "Instagram: children's contact details exposed",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2022,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 405000000,
+    "currency": "EUR",
+    "amount_label": "€405 million",
+    "status": "Meta said it would appeal",
+    "summary": "Instagram let children run business accounts that publicly exposed their email addresses and phone numbers, and set young users' accounts to public by default. First EU-wide decision on children's data rights.",
+    "sources": [
+      {
+        "label": "Irish Legal News",
+        "url": "https://irishlegal.com/articles/dpc-imposes-record-eur405m-fine-on-instagram"
+      },
+      {
+        "label": "iubenda",
+        "url": "https://www.iubenda.com/en/blog/irish-dpc-fined-instagram-e405-million/"
+      },
+      {
+        "label": "Digit",
+        "url": "https://www.digit.fyi/?p=71302"
+      },
+      {
+        "label": "BBC",
+        "url": "https://www.bbc.com/news/technology-62800884"
+      }
+    ]
+  },
+  {
+    "slug": "meta-forced-consent-2023",
+    "company": "Meta",
+    "title": "Facebook and Instagram: forced consent to targeted ads",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 390000000,
+    "currency": "EUR",
+    "amount_label": "€390 million",
+    "status": null,
+    "summary": "Meta moved ad consent into its terms of service, so users had to accept tracking to use Facebook and Instagram. Regulators ruled it could not justify behavioural ads as part of the contract with users. Split as €210M (Facebook) and €180M (Instagram); the Irish DPC had proposed €28–36 million before the EDPB forced it higher.",
+    "sources": [
+      {
+        "label": "noyb",
+        "url": "https://noyb.eu/node/408"
+      },
+      {
+        "label": "Hunton Andrews Kurth",
+        "url": "https://hunton.com/privacy-and-information-security-law/meta-fined-e390-million-by-irish-dpc-for-alleged-breaches-of-gdpr-including-in-behavioral-advertising-context"
+      },
+      {
+        "label": "The Hacker News",
+        "url": "https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"
+      },
+      {
+        "label": "BBC",
+        "url": "https://www.bbc.com/news/technology-64153383"
+      }
+    ]
+  },
+  {
+    "slug": "meta-2018-data-breach-2024",
+    "company": "Meta",
+    "title": "2018 breach of about 29 million accounts",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 251000000,
+    "currency": "EUR",
+    "amount_label": "€251 million",
+    "status": "Meta signalled an appeal",
+    "summary": "A 2018 breach exposed names, emails, phone numbers, locations and children's data across about 29 million accounts (3 million in Europe). The fine covered missing data-protection safeguards and inadequate breach notification.",
+    "sources": [
+      {
+        "label": "National CIO Review",
+        "url": "https://nationalcioreview.com/articles-insights/extra-bytes/meta-fined-by-eu-regulators-for-major-data-security-failures/"
+      },
+      {
+        "label": "Reuters",
+        "url": "https://www.reuters.com/technology/eu-privacy-regulator-fines-meta-251-million-euros-2024-12-17/"
+      },
+      {
+        "label": "Euronews",
+        "url": "https://www.euronews.com/2024/12/17/facebook-owner-meta-hit-with-251m-fines-bill-for-2018-data-breach"
+      },
+      {
+        "label": "The Hacker News",
+        "url": "https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html"
+      }
+    ]
+  },
+  {
+    "slug": "meta-plaintext-passwords-2024",
+    "company": "Meta",
+    "title": "Passwords stored in plaintext",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 91000000,
+    "currency": "EUR",
+    "amount_label": "€91 million",
+    "status": null,
+    "summary": "Meta stored users' passwords without encryption on internal systems; reports at the time said around 600 million passwords were accessible to employees. It also failed to properly notify and document the breach.",
+    "sources": [
+      {
+        "label": "TechCentral",
+        "url": "https://www.techcentral.ie/dpc-fines-meta-e91m-over-unencrypted-passwords/"
+      },
+      {
+        "label": "Society for Computers & Law",
+        "url": "https://scl.org/?p=15082"
+      },
+      {
+        "label": "Malwarebytes",
+        "url": "https://www.malwarebytes.com/de/blog/news/2024/10/facebook-and-instagram-passwords-were-stored-in-plaintext-meta-fined"
+      }
+    ]
+  },
+  {
+    "slug": "meta-whatsapp-transparency-2021",
+    "company": "Meta",
+    "title": "WhatsApp: hiding data sharing with Meta companies",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2021,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 225000000,
+    "currency": "EUR",
+    "amount_label": "€225 million",
+    "status": null,
+    "summary": "WhatsApp failed to be transparent about how it shared users' data with other Meta companies. The Irish regulator initially proposed €30–50 million but was ordered by the EDPB to reassess.",
+    "sources": [
+      {
+        "label": "Irish Legal News",
+        "url": "https://irishlegal.com/articles/dpc-imposes-record-eur405m-fine-on-instagram"
+      },
+      {
+        "label": "Burges Salmon",
+        "url": "https://www.burges-salmon.com/?p=9314"
+      }
+    ]
+  },
+  {
+    "slug": "tiktok-china-data-transfers-2025",
+    "company": "TikTok",
+    "title": "European users' data accessed from China",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 530000000,
+    "currency": "EUR",
+    "amount_label": "€530 million",
+    "status": "TikTok is appealing",
+    "summary": "TikTok let staff in China remotely access European users' data without proving it was protected to EU standards, and didn't tell users. During the inquiry it said EU data wasn't stored in China, then admitted some had been. Ordered to comply within six months or suspend transfers.",
+    "sources": [
+      {
+        "label": "Irish Data Protection Commission",
+        "url": "https://www.dataprotection.ie/en/news-media/latest-news/irish-data-protection-commission-fines-tiktok-eu530-million-and-orders-corrective-measures-following"
+      },
+      {
+        "label": "Law Society Gazette (Ireland)",
+        "url": "https://www.lawsociety.ie/gazette/top-stories/2025/may/tiktok-fined-530m-over-data-transfers-to-china/"
+      },
+      {
+        "label": "TechRadar",
+        "url": "https://www.techradar.com/computing/cyber-security/tiktok-hit-by-a-eur530-million-fine-in-the-eu-for-illegally-sending-europeans-data-to-china"
+      },
+      {
+        "label": "Simmons & Simmons",
+        "url": "https://www.simmons-simmons.com/en/publications/cmaet4gdu00q0uqvg957rtvfu/irish-data-protection-commission-fines-tiktok-530-million"
+      }
+    ]
+  },
+  {
+    "slug": "tiktok-children-privacy-2023",
+    "company": "TikTok",
+    "title": "Children's profiles public by default",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 345000000,
+    "currency": "EUR",
+    "amount_label": "€345 million",
+    "status": null,
+    "summary": "Children's profiles were automatically set to public, exposing minors' content, and account creation used dark patterns.",
+    "sources": [
+      {
+        "label": "Termly",
+        "url": "https://termly.io/resources/articles/biggest-gdpr-fines"
+      },
+      {
+        "label": "Enzuzo",
+        "url": "https://www.enzuzo.com/blog/biggest-gdpr-fines"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-linkedin-behavioural-ads-2024",
+    "company": "Microsoft",
+    "title": "LinkedIn: behavioural analysis and targeted ads without a valid legal basis",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 310000000,
+    "currency": "EUR",
+    "amount_label": "€310 million",
+    "status": null,
+    "summary": "LinkedIn profiled its members and targeted ads without a valid legal basis: consent for third-party data wasn't properly informed, and its reliance on legitimate interests and contractual necessity was rejected. The case started from a complaint filed in France. LinkedIn said it believed it was compliant but would adjust its ad systems.",
+    "sources": [
+      {
+        "label": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/legal/ireland-fines-linkedin-310-million-over-targeted-advertising"
+      },
+      {
+        "label": "Irish Legal News",
+        "url": "https://irishlegal.com/articles/linkedin-fined-eur310m-by-irish-data-protection-watchdog"
+      },
+      {
+        "label": "Matheson",
+        "url": "https://www.matheson.com/insights/dpc-imposes-significant-gdpr-fine-on-linkedin/"
+      },
+      {
+        "label": "RPC Legal",
+        "url": "https://rpclegal.com/snapshots/data-protection/winter-2024/irish-dpc-fines-linkedin-310m-for-behavioural-analysis-and-targeted-advertising-breaches"
+      }
+    ]
+  },
+  {
+    "slug": "uber-driver-data-transfers-2024",
+    "company": "Uber",
+    "title": "Drivers' data sent to the US without safeguards",
+    "authority": "Dutch AP",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 290000000,
+    "currency": "EUR",
+    "amount_label": "€290 million",
+    "status": "Uber objected, calling the fine completely unjustified",
+    "summary": "For over two years Uber sent European drivers' account details, taxi licences, locations, photos, payment details, ID documents and in some cases criminal and medical records to US servers without proper transfer safeguards. Uber's third Dutch fine, after €600,000 in 2018 and €10 million in 2023.",
+    "sources": [
+      {
+        "label": "European Data Protection Board",
+        "url": "https://www.edpb.europa.eu/news/dutch-sa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to_de"
+      },
+      {
+        "label": "The Register",
+        "url": "https://www.theregister.com/2024/08/26/uber_fined_eu_us_data/"
+      },
+      {
+        "label": "The Hacker News",
+        "url": "https://thehackernews.com/2024/08/dutch-regulators-fines-uber-290-million.html"
+      },
+      {
+        "label": "Nasdaq / RTTNews",
+        "url": "https://www.nasdaq.com/articles/dutch-data-protection-authority-fines-eur-290-mln-uber"
+      }
+    ]
+  },
+  {
+    "slug": "google-cnil-gmail-ads-cookies-2025",
+    "company": "Google",
+    "title": "Gmail ads and cookie consent",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 325000000,
+    "currency": "EUR",
+    "amount_label": "€325 million",
+    "status": "Ordered to fix within six months or face daily penalties",
+    "summary": "Google inserted ads between emails in Gmail inboxes without consent (about 53 million French users) and nudged people creating Google accounts toward personalised-ad cookies. Google's third CNIL cookie fine, after €100 million (2020) and €150 million (2021).",
+    "sources": [
+      {
+        "label": "PrivacyLaws",
+        "url": "https://www.privacylaws.com/news/cnil-fines-google-325-million-and-shein-150-million/"
+      },
+      {
+        "label": "Lewis Silkin",
+        "url": "https://www.lewissilkin.com/passle/102l64c"
+      },
+      {
+        "label": "Incyber",
+        "url": "https://incyber.org/en/article/cookie-regulation-cnil-imposes-record-fines-on-google-and-shein/"
+      },
+      {
+        "label": "Breached.company",
+        "url": "https://breached.company/cnil-imposes-record-fines-on-google-and-shein/"
+      }
+    ]
+  },
+  {
+    "slug": "shein-cookies-2025",
+    "company": "Shein",
+    "title": "Cookies placed even after users refused",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 150000000,
+    "currency": "EUR",
+    "amount_label": "€150 million",
+    "status": "Shein plans to appeal",
+    "summary": "Advertising cookies were placed the moment users landed on shein.com; banners lacked key information, and when users clicked refuse, cookies kept being set or read anyway. Affected about 12 million monthly French users.",
+    "sources": [
+      {
+        "label": "Security Affairs",
+        "url": "https://securityaffairs.com/181911/laws-and-regulations/frances-cnil-fined-google-379m-and-shein-175m-for-breaching-cookie-rules.html"
+      },
+      {
+        "label": "Freevacy",
+        "url": "https://www.freevacy.com/news/french-dpa/french-dpa-fines-google-eur325m-and-shein-eur150m-for-cookie-violations/6695"
+      },
+      {
+        "label": "PrivacyLaws",
+        "url": "https://www.privacylaws.com/news/cnil-fines-google-325-million-and-shein-150-million/"
+      }
+    ]
+  },
+  {
+    "slug": "amazon-cnpd-ad-consent-2021",
+    "company": "Amazon",
+    "title": "Ad targeting without proper consent",
+    "authority": "Luxembourg CNPD",
+    "jurisdiction": "EU",
+    "year": 2021,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 746000000,
+    "currency": "EUR",
+    "amount_label": "€746 million",
+    "status": "Annulled by a Luxembourg court in March 2026",
+    "summary": "Fined for processing personal data for ads without proper consent; at the time the largest GDPR fine. A Luxembourg court annulled the decision in March 2026 after Amazon's appeal.",
+    "sources": [
+      {
+        "label": "GDPR Local",
+        "url": "https://gdprlocal.com/biggest-gdpr-fines/"
+      },
+      {
+        "label": "Secureframe",
+        "url": "https://secureframe.com/hub/gdpr/fines-and-penalties"
+      }
+    ]
+  },
+  {
+    "slug": "clearview-ai-dutch-face-database-2024",
+    "company": "Clearview AI",
+    "title": "Illegal facial recognition database",
+    "authority": "Dutch AP",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 30500000,
+    "currency": "EUR",
+    "amount_label": "€30.5 million",
+    "status": "Final (not contested); reportedly unpaid as of mid-2025",
+    "summary": "Clearview scraped more than 30 billion photos of people from the internet, turned them into biometric codes and sold searches to law enforcement, without any legal basis. The Dutch regulator warned that organisations using Clearview could themselves be fined. Italy (€20M), Greece and France have also fined it.",
+    "sources": [
+      {
+        "label": "JURIST",
+        "url": "https://www.jurist.org/news/2024/09/netherlands-data-protection-authority-fines-us-ai-company-30-5-million-euros-over-facial-recognition-database"
+      },
+      {
+        "label": "Pinsent Masons",
+        "url": "https://pinsentmasons.com/out-law/news/dutch-pa-fines-facial-recognition-company-gdpr-breach"
+      },
+      {
+        "label": "Hunton",
+        "url": "https://hunton.com/privacy-and-information-security-law/dutch-regulator-fines-clearview-ai-30-5-million-euros"
+      },
+      {
+        "label": "BABL AI",
+        "url": "https://babl.ai/dutch-dpa-fines-clearview-ai-e30-5-million-for-illegal-data-collection/"
+      },
+      {
+        "label": "FinTech Global",
+        "url": "https://fintech.global/?p=173178"
+      }
+    ]
+  },
+  {
+    "slug": "criteo-ad-tracking-2023",
+    "company": "Criteo",
+    "title": "Ad tracking without verified consent",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 40000000,
+    "currency": "EUR",
+    "amount_label": "€40 million",
+    "status": "Criteo is appealing",
+    "summary": "Criteo, which tracks about 370 million identifiers across Europe for retargeted ads, failed to check that people had consented, gave incomplete answers to data-access requests, and kept tracking users after they withdrew consent. Originally proposed at €60M; the complaint came from Privacy International and noyb.",
+    "sources": [
+      {
+        "label": "Digiday",
+        "url": "https://digiday.com/media-buying/with-a-e40-million-gdpr-fine-against-criteo-french-regulators-target-the-parisian-giant-over-its-data-practices/"
+      },
+      {
+        "label": "Bank Info Security",
+        "url": "https://www.bankinfosecurity.com/french-ad-tech-firm-fined-40m-euros-for-gdpr-violations-a-22358"
+      },
+      {
+        "label": "Bristows",
+        "url": "https://www.bristows.com/news/cnil-fines-criteo-e40m-for-adtech-breaches/"
+      }
+    ]
+  },
+  {
+    "slug": "apple-cnil-ad-identifiers-2023",
+    "company": "Apple",
+    "title": "iOS ad identifiers used without consent",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 8000000,
+    "currency": "EUR",
+    "amount_label": "€8 million",
+    "status": null,
+    "summary": "Apple used identifiers on iPhones (iOS 14.6) to serve targeted ads without first obtaining users' consent.",
+    "sources": [
+      {
+        "label": "The Hacker News",
+        "url": "https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"
+      },
+      {
+        "label": "CBS News",
+        "url": "https://www.cbsnews.com/news/meta-fined-400-million-390-millon-euros-ireland-facebook-privacy/"
+      }
+    ]
+  },
+  {
+    "slug": "google-eu-adtech-2025",
+    "company": "Google",
+    "title": "Abuse of dominance in ad technology",
+    "authority": "European Commission",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "antitrust",
+    "outcome": "fine",
+    "amount": 2950000000,
+    "currency": "EUR",
+    "amount_label": "€2.95 billion",
+    "status": "Google is appealing",
+    "summary": "Google abused its dominance in ad technology since at least 2014 by favouring its own ad exchange, raising costs likely passed on to consumers.",
+    "sources": [
+      {
+        "label": "Society for Computers & Law",
+        "url": "https://www.scl.org/european-commission-fines-google-e2-95-billion-over-abusive-practices-in-online-advertising-technology/"
+      },
+      {
+        "label": "Law Society Gazette",
+        "url": "https://www.lawsociety.ie/gazette/top-stories/2025/september/eu-fines-google-2.95-billion-for-ad-breaches"
+      }
+    ]
+  },
+  {
+    "slug": "apple-dma-anti-steering-2025",
+    "company": "Apple",
+    "title": "Digital Markets Act: anti-steering rules",
+    "authority": "European Commission",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "antitrust",
+    "outcome": "fine",
+    "amount": 500000000,
+    "currency": "EUR",
+    "amount_label": "€500 million",
+    "status": null,
+    "summary": "Apple blocked developers from telling users about cheaper deals outside the App Store, in breach of the Digital Markets Act.",
+    "sources": [
+      {
+        "label": "Brussels Times",
+        "url": "https://brusselstimes.com/1546806/eu-fines-apple-and-meta-e500-million-and-e200-million-respectively-for-breaching-digital-rules-tbtb"
+      },
+      {
+        "label": "WAM",
+        "url": "https://www.wam.ae/en/article/bjbn7r6-finds-apple-meta-breach-digital-markets-act"
+      }
+    ]
+  },
+  {
+    "slug": "meta-dma-pay-or-consent-2025",
+    "company": "Meta",
+    "title": "Digital Markets Act: pay or consent",
+    "authority": "European Commission",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "consumer",
+    "outcome": "fine",
+    "amount": 200000000,
+    "currency": "EUR",
+    "amount_label": "€200 million",
+    "status": null,
+    "summary": "The EU ruled that forcing users to pay or accept tracking breached Meta's duty to offer a less data-hungry option.",
+    "sources": [
+      {
+        "label": "WAM",
+        "url": "https://www.wam.ae/en/article/bjbn7r6-finds-apple-meta-breach-digital-markets-act"
+      },
+      {
+        "label": "The Cable",
+        "url": "https://thecable.ng/eu-fines-apple-meta-nearly-800m-for-breaching-digital-competition-rules"
+      }
+    ]
+  },
+  {
+    "slug": "apple-eu-music-streaming-2024",
+    "company": "Apple",
+    "title": "Music streaming: App Store anti-steering rules",
+    "authority": "European Commission",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "antitrust",
+    "outcome": "fine",
+    "amount": 1840000000,
+    "currency": "EUR",
+    "amount_label": "€1.84 billion",
+    "status": null,
+    "summary": "The European Commission fined Apple for abusing its dominant position in the distribution of music streaming apps: it prohibited developers from informing iOS users about cheaper subscription offers available outside the App Store.",
+    "sources": [
+      {
+        "label": "European Commission",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1161"
+      }
+    ]
+  },
+  {
+    "slug": "meta-ftc-cambridge-analytica-2019",
+    "company": "Meta",
+    "title": "FTC privacy order after Cambridge Analytica",
+    "authority": "US FTC",
+    "jurisdiction": "US",
+    "year": 2019,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 5000000000,
+    "currency": "USD",
+    "amount_label": "$5 billion",
+    "status": null,
+    "summary": "Record FTC penalty after data from about 87 million users reached Cambridge Analytica. The FTC also alleged Facebook used security phone numbers for ad targeting and misled users about facial recognition being off. Mark Zuckerberg must personally certify compliance.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook"
+      },
+      {
+        "label": "Irish Legal News",
+        "url": "https://www.irishlegal.com/articles/facebook-ordered-to-pay-unprecedented-5bn-fine"
+      },
+      {
+        "label": "Insurance Journal / Reuters",
+        "url": "https://amp.insurancejournal.com/news/national/2019/07/15/532182.htm"
+      }
+    ]
+  },
+  {
+    "slug": "meta-cambridge-analytica-class-action-2022",
+    "company": "Meta",
+    "title": "Cambridge Analytica privacy class action",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 725000000,
+    "currency": "USD",
+    "amount_label": "$725 million",
+    "status": null,
+    "summary": "Meta agreed to pay $725 million to resolve a class action alleging that Facebook improperly shared user data with Cambridge Analytica and other third parties without user consent.",
+    "sources": [
+      {
+        "label": "Settlement notice",
+        "url": "https://www.facebookuserprivacysettlement.com/"
+      },
+      {
+        "label": "The Hacker News",
+        "url": "https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"
+      }
+    ]
+  },
+  {
+    "slug": "meta-flo-health-verdict-2025",
+    "company": "Meta",
+    "title": "Flo period-tracking app: reproductive-health data",
+    "authority": "US federal jury (California)",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "verdict",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Damages pending",
+    "status": "Meta is appealing",
+    "summary": "A federal jury found Meta illegally collected reproductive-health data from the Flo app via embedded tracking code, violating California's wiretap law. Flo, Google and Flurry settled for $59.5M combined; Meta alone went to trial and lost.",
+    "sources": [
+      {
+        "label": "Fierce Healthcare",
+        "url": "https://www.fiercehealthcare.com/digital-health/meta-found-liable-abusing-consumer-reproductive-health-data-run-targeted-ads"
+      },
+      {
+        "label": "The Record",
+        "url": "https://therecord.media/jury-verdict-meta-flo-app-data-privacy-case"
+      },
+      {
+        "label": "Darrow",
+        "url": "https://www.darrow.ai/news/jury-finds-meta-liable-for-collecting-private-reproductive-health-data"
+      },
+      {
+        "label": "Paubox",
+        "url": "https://www.paubox.com/blog/google-flo-health-and-flurry-to-pay-59.5-million"
+      }
+    ]
+  },
+  {
+    "slug": "meta-texas-facial-recognition-2024",
+    "company": "Meta",
+    "title": "Texas facial recognition settlement",
+    "authority": "Texas Attorney General",
+    "jurisdiction": "US",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 1400000000,
+    "currency": "USD",
+    "amount_label": "$1.4 billion",
+    "status": null,
+    "summary": "Meta settled Texas's claims over its use of facial recognition on users' photos.",
+    "sources": [
+      {
+        "label": "CyberInsider",
+        "url": "https://cyberinsider.com/google-to-pay-texas-1-375-billion-in-landmark-privacy-settlement/"
+      },
+      {
+        "label": "Bloomberg Government",
+        "url": "https://news.bgov.com/esg/google-7"
+      }
+    ]
+  },
+  {
+    "slug": "google-rodriguez-tracking-verdict-2025",
+    "company": "Google",
+    "title": "Rodriguez v. Google: tracking after opt-out",
+    "authority": "US federal jury (N.D. California)",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "verdict",
+    "amount": 425700000,
+    "currency": "USD",
+    "amount_label": "$425.7 million",
+    "status": "Upheld by the judge in January 2026; Google may appeal",
+    "summary": "Google kept collecting app-activity data from about 98 million users who had turned Web & App Activity off. The judge later rejected both Google's bid to overturn the verdict and the plaintiffs' $2.36B disgorgement request; with interest the award is about $440M.",
+    "sources": [
+      {
+        "label": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/litigation/google-violated-privacy-of-nearly-100-million-users-jury-finds"
+      },
+      {
+        "label": "MLex",
+        "url": "https://www.mlex.com/mlex/articles/2436551"
+      },
+      {
+        "label": "ClaimDepot",
+        "url": "https://www.claimdepot.com/cases/google-privacy-verdict-attorney-fees"
+      }
+    ]
+  },
+  {
+    "slug": "google-california-android-data-2025",
+    "company": "Google",
+    "title": "California Android data verdict",
+    "authority": "California state jury",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "verdict",
+    "amount": 314600000,
+    "currency": "USD",
+    "amount_label": "$314.6 million",
+    "status": null,
+    "summary": "A California jury found Google liable over data collected from Android users' phones.",
+    "sources": [
+      {
+        "label": "Bartlit Beck",
+        "url": "https://www.bartlit-beck.com/newsroom-news-560"
+      },
+      {
+        "label": "Mondaq",
+        "url": "https://admin.mondaq.com/unitedstates/privacy-protection/1675226/federal-jury-awards-%244257-million-in-google-privacy-case-key-takeaways-on-consent-design-and-litigation-risk"
+      }
+    ]
+  },
+  {
+    "slug": "google-texas-location-biometrics-2025",
+    "company": "Google",
+    "title": "Texas: location, Incognito and biometric data",
+    "authority": "Texas Attorney General",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 1375000000,
+    "currency": "USD",
+    "amount_label": "$1.375 billion",
+    "status": null,
+    "summary": "Google settled Texas's claims that it collected location data, Incognito searches, voiceprints and face geometry without consent. Earlier, in 2022, it paid $391.5M to 40 states over location tracking.",
+    "sources": [
+      {
+        "label": "Texas Attorney General",
+        "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-finalizes-historic-settlement-google-and-secures-1375-billion-big-tech"
+      },
+      {
+        "label": "MediaPost",
+        "url": "https://www.mediapost.com/publications/article/405803/google-to-pay-1375-billion-to-resolve-texas-priv.html"
+      },
+      {
+        "label": "KRON / Yahoo",
+        "url": "https://www.yahoo.com/news/google-pay-texas-more-1-011119296.html"
+      }
+    ]
+  },
+  {
+    "slug": "google-search-monopoly-2024",
+    "company": "Google",
+    "title": "United States v. Google: illegal search monopoly",
+    "authority": "US District Court, D.C.",
+    "jurisdiction": "US",
+    "year": 2024,
+    "category": "antitrust",
+    "outcome": "ruling",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Remedies ordered",
+    "status": "2025 remedies include sharing some search data with rivals; no breakup",
+    "summary": "Judge Amit Mehta ruled that Google violated Section 2 of the Sherman Act by illegally maintaining its monopoly in general search, partly by paying billions to be the default search engine, and overcharged for search ads.",
+    "sources": [
+      {
+        "label": "US Department of Justice",
+        "url": "https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google"
+      },
+      {
+        "label": "Forbes",
+        "url": "https://www.forbes.com.au/?p=99160"
+      },
+      {
+        "label": "Fox 13 Seattle / AP",
+        "url": "https://www.fox13seattle.com/news/judge-rules-google-has-illegal-monopoly-over-internet-search"
+      }
+    ]
+  },
+  {
+    "slug": "google-incognito-brown-2024",
+    "company": "Google",
+    "title": "Brown v. Google: tracking in Chrome Incognito mode",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 5000000000,
+    "currency": "USD",
+    "amount_label": "Valued at $5 billion; data destruction order",
+    "status": "Google said in a statement that the suit had been meritless",
+    "summary": "Users sued Google for continuing to track and collect web browsing activity while Incognito private browsing was enabled. Google agreed to delete or remediate billions of collected data records.",
+    "sources": [
+      {
+        "label": "New York Times",
+        "url": "https://archive.ph/9Z3ti"
+      },
+      {
+        "label": "MainorWirth",
+        "url": "https://mainorwirth.com/google-incognito-lawsuit-explained-in-detail/"
+      },
+      {
+        "label": "The Verge",
+        "url": "https://web.archive.org/web/20260408205655/https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement"
+      }
+    ]
+  },
+  {
+    "slug": "amazon-ftc-prime-2025",
+    "company": "Amazon",
+    "title": "FTC: Prime sign-up and cancellation dark patterns",
+    "authority": "US FTC",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "consumer",
+    "outcome": "settlement",
+    "amount": 2500000000,
+    "currency": "USD",
+    "amount_label": "$2.5 billion",
+    "status": "No admission of wrongdoing",
+    "summary": "The FTC alleged Amazon tricked people into Prime and made cancelling deliberately hard (the flow was internally nicknamed The Iliad). $1B civil penalty, an FTC record, plus $1.5B in refunds to about 35 million customers.",
+    "sources": [
+      {
+        "label": "Axios",
+        "url": "https://axios.com/2025/09/25/amazon-prime-ftc-settlement"
+      },
+      {
+        "label": "AP via Boston.com",
+        "url": "https://www.boston.com/news/business/2025/09/25/amazon-to-pay-2-5-billion-to-settle-ftc-allegations-it-duped-customers-into-enrolling-in-prime/"
+      },
+      {
+        "label": "eMarketer",
+        "url": "https://www.emarketer.com/content/amazon-ftc-prime-settlement-2-5-billion"
+      }
+    ]
+  },
+  {
+    "slug": "amazon-ring-alexa-ftc-2023",
+    "company": "Amazon",
+    "title": "FTC / DOJ: Ring video access and children's Alexa recordings",
+    "authority": "US FTC / DOJ",
+    "jurisdiction": "US",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 30800000,
+    "currency": "USD",
+    "amount_label": "$30.8 million",
+    "status": null,
+    "summary": "Amazon agreed to pay over $25 million to settle FTC charges that it kept children's Alexa voice recordings and failed to delete them on parental request. Separately, Ring paid $5.8 million after employees and contractors accessed customers' private video feeds.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-data-for-years"
+      },
+      {
+        "label": "Gulf News / AFP",
+        "url": "https://gulfnews.com/technology/companies/apple-agrees-to-95m-deal-to-settle-siri-eavesdropping-suit-1.500010190"
+      }
+    ]
+  },
+  {
+    "slug": "apple-siri-recordings-2025",
+    "company": "Apple",
+    "title": "Siri eavesdropping class action",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 95000000,
+    "currency": "USD",
+    "amount_label": "$95 million",
+    "status": "Apple denied wrongdoing",
+    "summary": "Alleged accidental Siri activations recorded private conversations for over a decade. Up to $20 per device.",
+    "sources": [
+      {
+        "label": "SCMP",
+        "url": "https://www.scmp.com/tech/big-tech/article/3293231/apple-agrees-pay-us95-million-settle-siri-eavesdropping-lawsuit"
+      },
+      {
+        "label": "AP via Fox5 Vegas",
+        "url": "https://www.fox5vegas.com/2025/01/03/apple-pay-95-million-settle-lawsuit-accusing-siri-eavesdropping/"
+      }
+    ]
+  },
+  {
+    "slug": "apple-epic-injunction-contempt-2025",
+    "company": "Apple",
+    "title": "Contempt of court for defying the Epic injunction",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "antitrust",
+    "outcome": "ruling",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Contempt finding and criminal referral",
+    "status": null,
+    "summary": "Judge Yvonne Gonzalez Rogers found Apple willfully violated her 2021 injunction by adding a 27% fee and scare screens on outside payment links. She referred Apple and finance VP Alex Roman to prosecutors for possible criminal contempt; records showed Tim Cook overrode internal advice to comply.",
+    "sources": [
+      {
+        "label": "Fortune / Bloomberg",
+        "url": "https://www.fortune.com/article/apple-violated-ruling-fortnite-app-store"
+      },
+      {
+        "label": "TechPartner / Reuters",
+        "url": "https://www.techpartner.news/news/us-judge-rules-apple-violated-order-to-reform-app-store-616877"
+      }
+    ]
+  },
+  {
+    "slug": "epic-games-ftc-fortnite-2022",
+    "company": "Epic Games",
+    "title": "FTC: Fortnite children's privacy and dark patterns",
+    "authority": "US FTC",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "consumer",
+    "outcome": "settlement",
+    "amount": 520000000,
+    "currency": "USD",
+    "amount_label": "$520 million",
+    "status": null,
+    "summary": "$275M for collecting under-13s' data without parental consent (a COPPA record) plus $245M in refunds for dark patterns that tricked players into purchases; accounts were locked when users disputed unauthorised charges.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations"
+      },
+      {
+        "label": "MediaPost",
+        "url": "https://www.mediapost.com/publications/article/380803/epic-fined-520-million-over-dark-patterns-chil.html"
+      },
+      {
+        "label": "NME",
+        "url": "https://www.nme.com/news/epic-games-has-been-charged-520million-by-the-ftc-3369049"
+      }
+    ]
+  },
+  {
+    "slug": "clearview-ai-illinois-biometric-2024",
+    "company": "Clearview AI",
+    "title": "Illinois biometric privacy class action",
+    "authority": "US District Court, N.D. Illinois",
+    "jurisdiction": "US",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 50000000,
+    "currency": "USD",
+    "amount_label": "About $50 million or more",
+    "status": null,
+    "summary": "Clearview settled an Illinois biometric privacy class action over its facial recognition database, potentially worth over $50 million.",
+    "sources": [
+      {
+        "label": "Reuters",
+        "url": "https://www.reuters.com/legal/litigation/us-judge-approves-novel-clearview-ai-class-action-settlement-2025-03-21/"
+      },
+      {
+        "label": "ACLU Illinois",
+        "url": "https://www.aclu-il.org/big-win-settlement-ensures-clearview-ai-complies-groundbreaking-illinois-biometric-privacy-law/"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-xbox-coppa-2023",
+    "company": "Microsoft",
+    "title": "FTC: Xbox children's data (COPPA)",
+    "authority": "US FTC",
+    "jurisdiction": "US",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 20000000,
+    "currency": "USD",
+    "amount_label": "$20 million",
+    "status": null,
+    "summary": "The FTC said Microsoft collected personal data from under-13s signing up for Xbox without notifying parents or getting their consent, and kept some of it for years even when sign-up wasn't completed. Microsoft blamed a technical glitch and said the data was never used or monetised.",
+    "sources": [
+      {
+        "label": "The Record",
+        "url": "https://therecord.media/microsoft-ftc-settlement-xbox-childrens-data"
+      },
+      {
+        "label": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/microsoft-fined-20m-xbox-child-data-collection"
+      },
+      {
+        "label": "Game World Observer",
+        "url": "https://gameworldobserver.com/2023/06/06/microsoft-fined-20-million-ftc-children-data-xbox-coppa"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-eu-antitrust-2004-2013",
+    "company": "Microsoft",
+    "title": "EU antitrust: Media Player, interoperability and browser choice",
+    "authority": "European Commission",
+    "jurisdiction": "EU",
+    "year": 2013,
+    "category": "antitrust",
+    "outcome": "fine",
+    "amount": 2200000000,
+    "currency": "EUR",
+    "amount_label": "About €2.2 billion in total (2004–2013)",
+    "status": null,
+    "summary": "€497 million (2004) for bundling Windows Media Player with Windows; €280 million more for not disclosing interoperability information as ordered; and in 2013, €561 million for breaking a binding promise to show EU users a browser-choice screen, which about 15 million Windows 7 users didn't see for 14 months.",
+    "sources": [
+      {
+        "label": "Sofia Globe",
+        "url": "https://sofiaglobe.com/2013/03/06/eu-fines-microsoft-561m-euro-for-browser-screen-fail/"
+      },
+      {
+        "label": "CBS News / AP",
+        "url": "https://cbsnews.com/news/eu-fines-microsoft-733m-for-breaking-word-on-ie"
+      },
+      {
+        "label": "Guru3D / Reuters",
+        "url": "https://www.guru3d.com/story/eu-fines-microsoft-731-million/"
+      }
+    ]
+  },
+  {
+    "slug": "samsung-australia-water-resistance-2022",
+    "company": "Samsung",
+    "title": "Australia: misleading water-resistance ads",
+    "authority": "Federal Court of Australia (ACCC)",
+    "jurisdiction": "AU",
+    "year": 2022,
+    "category": "consumer",
+    "outcome": "fine",
+    "amount": 14000000,
+    "currency": "AUD",
+    "amount_label": "A$14 million",
+    "status": "Samsung Australia admitted breaking consumer law",
+    "summary": "Between 2016 and 2018 Samsung Australia showed Galaxy phones being used in pools and the sea. In reality, charging them after exposure to pool or sea water could corrode the port and stop the phone working; the parent company knew about the issue before launch.",
+    "sources": [
+      {
+        "label": "The Register",
+        "url": "https://www.theregister.com/2022/06/23/australia_samsung_water_resistance_fine/"
+      },
+      {
+        "label": "IT Pro",
+        "url": "https://itpro.com/mobile/mobile-phones/368345/samsung-fined-14-million-for-misleading-galaxy-water-resistance-ads"
+      },
+      {
+        "label": "The New Daily",
+        "url": "https://thenewdaily.com.au/finance/2022/06/23/samsung-australia-fine-accc-water/"
+      }
+    ]
+  },
+  {
+    "slug": "texas-smart-tv-acr-2025",
+    "company": "Samsung, LG, Sony",
+    "title": "Texas: smart TVs tracking viewing via ACR",
+    "authority": "Texas Attorney General",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "privacy",
+    "outcome": "pending",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Up to $10,000 per violation sought",
+    "status": "Pending lawsuit; allegations, not findings",
+    "summary": "Texas sued Samsung, LG, Sony, Hisense and TCL, alleging their smart TVs use Automated Content Recognition to screenshot what's on screen as often as every half-second, track viewing habits and sell the data to advertisers without meaningful consent. A court granted a temporary restraining order against Hisense.",
+    "sources": [
+      {
+        "label": "TechSpot",
+        "url": "https://www.techspot.com/news/110630-texas-sues-five-smart-tv-makers-over-claims.html"
+      },
+      {
+        "label": "BGR",
+        "url": "https://www.bgr.com/2055785/texas-sues-biggest-smart-tv-manufacturers-alleged-spying"
+      },
+      {
+        "label": "TechRadar",
+        "url": "https://www.techradar.com/televisions/your-tv-is-a-mass-surveillance-system-says-texas-and-the-state-is-suing-lg-samsung-hisense-tcl-and-more-to-stop-it"
+      },
+      {
+        "label": "SlashGear",
+        "url": "https://www.slashgear.com/2056289/texas-smart-tv-lawsuit-acr-technology"
+      },
+      {
+        "label": "KXAN",
+        "url": "https://www.kxan.com/news/texas-politics/texas-ag-sues-several-tv-companies-says-smart-tvs-are-spying-on-texans/amp/"
+      }
+    ]
+  },
+  {
+    "slug": "sony-psn-hack-ico-2013",
+    "company": "Sony",
+    "title": "UK ICO: PlayStation Network hack",
+    "authority": "UK ICO",
+    "jurisdiction": "UK",
+    "year": 2013,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 250000,
+    "currency": "GBP",
+    "amount_label": "£250,000",
+    "status": "Sony disagreed and said it would appeal",
+    "summary": "The 2011 PSN breach exposed names, addresses, emails, birth dates and passwords of millions of users, and put payment cards at risk. The regulator found it preventable: software wasn't up to date and passwords weren't stored securely.",
+    "sources": [
+      {
+        "label": "Computing",
+        "url": "https://www.computing.co.uk/news/2238805/ico-fines-sony-gbp250-000-for-playstation-network-hack"
+      },
+      {
+        "label": "The Register",
+        "url": "https://theregister.com/2013/01/24/sony_psn_breach_fine"
+      },
+      {
+        "label": "Engadget",
+        "url": "https://www.engadget.com/2013-01-24-uk-government-fines-sony-for-serious-2011-psn-breach-sony-to.html"
+      }
+    ]
+  },
+  {
+    "slug": "sony-uk-playstation-store-class-action-2022",
+    "company": "Sony",
+    "title": "UK PlayStation Store overcharging class action",
+    "authority": "UK Competition Appeal Tribunal",
+    "jurisdiction": "UK",
+    "year": 2022,
+    "category": "antitrust",
+    "outcome": "pending",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Up to £5 billion claimed",
+    "status": "Trial scheduled to start in March 2026; outcome pending",
+    "summary": "Consumer advocate Alex Neill claims Sony abused its dominance by forcing digital games and add-ons to be sold only through the PlayStation Store, taking a 30% cut and overcharging UK gamers. Later reported at about £2bn for about 12.2 million gamers. Sony's attempt to have it thrown out failed.",
+    "sources": [
+      {
+        "label": "Retail Insight Network",
+        "url": "https://www.retail-insight-network.com/news/sony-uk-lawsuit-playstation/"
+      },
+      {
+        "label": "Irish News / PA",
+        "url": "https://www.irishnews.com/news/uk/2bn-class-action-claims-uk-playstation-users-are-overcharged-for-games-Y3MNO3KIUNLGRIBB3BMCEPINCU/"
+      },
+      {
+        "label": "SCMP",
+        "url": "https://www.scmp.com/news/world/europe/article/3345190/us268-billion-class-action-claims-uk-playstation-users-are-overcharged-games"
+      }
+    ]
+  },
+  {
+    "slug": "sony-caccuri-playstation-store-2026",
+    "company": "Sony",
+    "title": "Caccuri v. Sony: PlayStation Store digital game codes",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2026,
+    "category": "antitrust",
+    "outcome": "settlement",
+    "amount": 7850000,
+    "currency": "USD",
+    "amount_label": "$7.85 million",
+    "status": "Pending",
+    "summary": "Sony settled class-action claims that, after it stopped retailers such as Amazon and Best Buy from selling digital game download codes in 2019, it held a monopoly on PlayStation Store sales that inflated prices.",
+    "sources": [
+      {
+        "label": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/media-advertising/articles/sony-playstation-store-credit-settlement-114117647.html"
+      },
+      {
+        "label": "KeenGamer",
+        "url": "https://www.keengamer.com/articles/news/sony-psn-settlement-heads-to-final-approval-hearing-on-october-15/"
+      }
+    ]
+  },
+  {
+    "slug": "nvidia-sec-crypto-mining-2022",
+    "company": "Nvidia",
+    "title": "SEC: undisclosed crypto-mining impact on sales",
+    "authority": "US SEC",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "securities",
+    "outcome": "settlement",
+    "amount": 5500000,
+    "currency": "USD",
+    "amount_label": "$5.5 million",
+    "status": "Settled without admitting or denying the findings",
+    "summary": "The SEC said Nvidia failed to tell investors in 2018 that crypto mining was a major driver of its gaming GPU sales growth, while its sales staff in China were reporting mining-driven demand.",
+    "sources": [
+      {
+        "label": "The Block",
+        "url": "https://www.theblock.co/linked/145485/gpu-maker-nvidia-settles-with-the-sec-over-crypto-mining-disclosure-issues"
+      },
+      {
+        "label": "Business Standard",
+        "url": "https://www.business-standard.com/amp/article/international/us-chipmaker-nvidia-fined-5-5-mn-over-crypto-mining-disclosures-in-us-122050700232_1.html"
+      },
+      {
+        "label": "TechCentral",
+        "url": "https://www.techcentral.ie/?p=145000"
+      }
+    ]
+  },
+  {
+    "slug": "nvidia-china-samr-mellanox-2025",
+    "company": "Nvidia",
+    "title": "China SAMR: Mellanox merger conditions",
+    "authority": "China SAMR",
+    "jurisdiction": "CN",
+    "year": 2025,
+    "category": "antitrust",
+    "outcome": "pending",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Penalties not set",
+    "status": "Preliminary finding; full investigation under way",
+    "summary": "China's market regulator said a preliminary probe found Nvidia breached its anti-monopoly law and the conditions attached to its 2020 approval of the $6.9 billion Mellanox acquisition. The announcement came during tense US–China trade talks.",
+    "sources": [
+      {
+        "label": "The Register",
+        "url": "https://www.theregister.com/2025/09/15/china_nvidia_antitrust/"
+      },
+      {
+        "label": "JURIST",
+        "url": "https://www.jurist.org/news/2025/09/china-finds-nvidia-violated-antimonopoly-law-in-preliminary-probe/"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2025/9/15/china-accuses-nvidia-of-violating-anti-monopoly-laws"
+      }
+    ]
+  },
+  {
+    "slug": "nvidia-arm-acquisition-2022",
+    "company": "Nvidia",
+    "title": "FTC lawsuit to block the Arm acquisition",
+    "authority": "US FTC",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "antitrust",
+    "outcome": "other",
+    "amount": null,
+    "currency": null,
+    "amount_label": "$40 billion acquisition abandoned",
+    "status": null,
+    "summary": "The FTC sued to block Nvidia's proposed $40 billion acquisition of chip designer Arm, arguing it would stifle innovation in data centres and autonomous vehicles. Facing opposition from UK and EU regulators as well, Nvidia terminated the deal.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger"
+      }
+    ]
+  },
+  {
+    "slug": "amd-bulldozer-eight-core-2019",
+    "company": "AMD",
+    "title": "Eight-core Bulldozer false advertising",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2019,
+    "category": "consumer",
+    "outcome": "settlement",
+    "amount": 12100000,
+    "currency": "USD",
+    "amount_label": "$12.1 million",
+    "status": null,
+    "summary": "AMD marketed its FX Bulldozer chips as the first native eight-core desktop processors. Buyers argued the cores shared key resources such as a single floating-point unit per module, so they weren't true independent cores. AMD settled for about $35 per chip.",
+    "sources": [
+      {
+        "label": "TechRadar",
+        "url": "https://www.techradar.com/news/amds-eight-core-bulldozer-cpu-deception-has-cost-it-dollar121-million"
+      },
+      {
+        "label": "The Register",
+        "url": "https://www.theregister.com/2019/08/27/amd_chip_compensation/"
+      },
+      {
+        "label": "AnandTech",
+        "url": "https://www.anandtech.com/show/14804"
+      }
+    ]
+  },
+  {
+    "slug": "openai-italy-garante-chatgpt-2024",
+    "company": "OpenAI",
+    "title": "Italy Garante: ChatGPT GDPR breaches",
+    "authority": "Italian Garante",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 15000000,
+    "currency": "EUR",
+    "amount_label": "€15 million",
+    "status": "OpenAI is appealing",
+    "summary": "Italy's privacy regulator found OpenAI trained ChatGPT on personal data without a proper legal basis, wasn't transparent with users, failed to report a March 2023 data breach, and lacked age checks for under-13s. It also ordered a six-month public-awareness campaign. Italy had temporarily blocked ChatGPT in 2023.",
+    "sources": [
+      {
+        "label": "Garante order (2023)",
+        "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9870847"
+      },
+      {
+        "label": "Euronews",
+        "url": "https://www.euronews.com/2024/12/20/italys-privacy-watchdog-fines-openai-15-million-after-probe-into-chatgpt-data-collection"
+      },
+      {
+        "label": "ABC News / AP",
+        "url": "https://abcnews.go.com/Business/wireStory/italys-privacy-watchdog-fines-openai-chatgpts-violations-collecting-116987605"
+      },
+      {
+        "label": "Security Affairs",
+        "url": "https://securityaffairs.com/172264/laws-and-regulations/italys-data-protection-watchdog-fined-openai-e15-million.html"
+      }
+    ]
+  },
+  {
+    "slug": "openai-gema-song-lyrics-2025",
+    "company": "OpenAI",
+    "title": "GEMA v. OpenAI: song lyrics copyright",
+    "authority": "Munich Regional Court",
+    "jurisdiction": "EU",
+    "year": 2025,
+    "category": "copyright",
+    "outcome": "ruling",
+    "amount": null,
+    "currency": null,
+    "amount_label": "Damages and injunction",
+    "status": "Not final; reportedly before the Munich Higher Regional Court",
+    "summary": "A Munich court ruled that GPT-4 and GPT-4o had memorised lyrics from nine German songs and reproduced them almost verbatim, and that both the memorisation and the output infringed copyright. OpenAI was ordered to stop, disclose usage and pay damages.",
+    "sources": [
+      {
+        "label": "Bird & Bird",
+        "url": "https://cm.twobirds.com/en/insights/2025/landmark-ruling-of-the-munich-regional-court-(gema-v-openai)-on-copyright-and-ai-training"
+      },
+      {
+        "label": "BNN Bloomberg / AFP",
+        "url": "https://www.bnnbloomberg.ca/business/2025/11/11/german-court-rules-against-openai-in-copyright-case/"
+      },
+      {
+        "label": "GEMA",
+        "url": "https://www.gema.de/en/w/landmark-ruling-gema-against-openai"
+      },
+      {
+        "label": "Hogan Lovells tracker",
+        "url": "https://digital-client-solutions.hoganlovells.com/resources/ai-litigation-case-law-tracker/case/gema-v-openai/decision/9"
+      }
+    ]
+  },
+  {
+    "slug": "anthropic-bartz-pirated-books-2025",
+    "company": "Anthropic",
+    "title": "Bartz v. Anthropic: pirated books used for AI training",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "copyright",
+    "outcome": "settlement",
+    "amount": 1500000000,
+    "currency": "USD",
+    "amount_label": "$1.5 billion",
+    "status": "Preliminarily approved on September 25, 2025",
+    "summary": "In June 2025 Judge William Alsup ruled that training on lawfully obtained books was fair use, but that Anthropic had wrongfully downloaded more than 7 million books it knew were pirated, from sites such as Library Genesis and Books3. Facing trial, Anthropic settled for about $3,000 per book for roughly 465,000–500,000 works and agreed to destroy the pirated files.",
+    "sources": [
+      {
+        "label": "AP via Michigan Public",
+        "url": "https://www.michiganpublic.org/2025-09-05/anthropic-to-pay-authors-1-5b-to-settle-lawsuit-over-pirated-chatbot-training-material"
+      },
+      {
+        "label": "The Lawyer Magazine",
+        "url": "https://www.thelawyermag.com/au/news/general/anthropic-to-fork-over-us15-billion-in-watershed-settlement-with-authors-over-book-piracy/548747"
+      },
+      {
+        "label": "Inquirer / AP",
+        "url": "https://www.inquirer.com/business/anthropic-authors-settlement-chatbot-pirated-books-20250906.html"
+      },
+      {
+        "label": "OPI",
+        "url": "https://opi.gr/en/news/6379/"
+      }
+    ]
+  },
+  {
+    "slug": "meta-facebook-scraping-leak-2022",
+    "company": "Meta",
+    "title": "Facebook: scraping leak of about 533 million users' data",
+    "authority": "Irish DPC",
+    "jurisdiction": "EU",
+    "year": 2022,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 265000000,
+    "currency": "EUR",
+    "amount_label": "€265 million",
+    "status": null,
+    "summary": "Data on up to 533 million Facebook users from 106 countries was posted free on a hacking forum in 2021. Attackers had scraped it through a contact-import feature that Meta fixed in 2019. The regulator found Meta failed to build in data protection by design and default, and said earlier scraping incidents should have been caught sooner.",
+    "sources": [
+      {
+        "label": "RTÉ",
+        "url": "https://rte.ie/news/business/2022/1128/1338739-meta-fined-265m-by-irish-data-watchdog"
+      },
+      {
+        "label": "Computing",
+        "url": "https://www.computing.co.uk/news/4060884/meta-hit-eur265m-fine-irish-privacy-regulator"
+      },
+      {
+        "label": "Security Affairs",
+        "url": "https://securityaffairs.com/?p=139063"
+      }
+    ]
+  },
+  {
+    "slug": "meta-cnil-cookies-2021",
+    "company": "Meta",
+    "title": "Facebook: cookies hard to refuse",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2021,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 60000000,
+    "currency": "EUR",
+    "amount_label": "€60 million",
+    "status": null,
+    "summary": "On facebook.com, accepting cookies took one click but refusing took several, and the refusal button was confusingly labelled. Meta was ordered to make refusing as easy as accepting, with a €100,000-per-day penalty for delay.",
+    "sources": [
+      {
+        "label": "Hunton",
+        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/cnil-fines-big-tech-companies-210-million-euros-for-cookie-violations"
+      },
+      {
+        "label": "DLA Piper",
+        "url": "https://privacymatters.dlapiper.com/2022/01/france-cookies-new-record-sanctions-for-tech-giants-cnil-fines-facebook-ireland-60-million-euros-and-google-150-million-euros/"
+      }
+    ]
+  },
+  {
+    "slug": "google-cnil-cookies-2021",
+    "company": "Google",
+    "title": "Cookies hard to refuse on google.fr and YouTube",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2021,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 150000000,
+    "currency": "EUR",
+    "amount_label": "€150 million",
+    "status": null,
+    "summary": "Refusing cookies on google.fr and YouTube took about five clicks while accepting took one. One decision, split as €90M against Google LLC and €60M against Google Ireland; some lists show these as two separate fines.",
+    "sources": [
+      {
+        "label": "DLA Piper",
+        "url": "https://privacymatters.dlapiper.com/2022/01/france-cookies-new-record-sanctions-for-tech-giants-cnil-fines-facebook-ireland-60-million-euros-and-google-150-million-euros/"
+      },
+      {
+        "label": "Hunton",
+        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/cnil-fines-big-tech-companies-210-million-euros-for-cookie-violations"
+      }
+    ]
+  },
+  {
+    "slug": "google-cnil-ad-personalisation-2019",
+    "company": "Google",
+    "title": "Ad personalisation without valid consent",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2019,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 50000000,
+    "currency": "EUR",
+    "amount_label": "€50 million",
+    "status": null,
+    "summary": "CNIL found Google gave users too little information and control over ad personalisation, so their consent wasn't valid. One of the first large GDPR fines.",
+    "sources": [
+      {
+        "label": "Computing",
+        "url": "https://computing.co.uk/news/4042877/france-fines-google-facebook-combined-eur210-million-cookie-tracking"
+      },
+      {
+        "label": "CISO Mag",
+        "url": "https://www.cisomag.com/google-agrees-to-pay-us-7-5m-over-google-data-breaches/"
+      }
+    ]
+  },
+  {
+    "slug": "amazon-france-logistique-worker-monitoring-2023",
+    "company": "Amazon",
+    "title": "Amazon France Logistique: intrusive warehouse-worker monitoring",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2023,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 15000000,
+    "currency": "EUR",
+    "amount_label": "€15 million (reduced from €32 million)",
+    "status": "Reduced from €32 million by France's Council of State; Amazon called the findings factually incorrect",
+    "summary": "Workers' handheld scanners fed indicators that tracked idle time down to the second, flagged anyone inactive for more than 10 minutes, and logged items scanned too fast. The data was kept for 31 days. CNIL called the system excessively intrusive, found staff weren't properly told about video surveillance, and said the video software was poorly secured.",
+    "sources": [
+      {
+        "label": "CNIL",
+        "url": "https://cnil.fr/en/employee-monitoring-cnil-fined-amazon-france-logistique-eu32-million"
+      },
+      {
+        "label": "Silicon UK",
+        "url": "https://silicon.co.uk/e-marketing/ecommerce/cnil-france-amazon-fine-546858"
+      },
+      {
+        "label": "GDPR Enforcement Tracker",
+        "url": "https://www.enforcementtracker.com/ETid-2192"
+      }
+    ]
+  },
+  {
+    "slug": "amazon-cnil-cookies-2020",
+    "company": "Amazon",
+    "title": "Amazon Europe: advertising cookies",
+    "authority": "French CNIL",
+    "jurisdiction": "EU",
+    "year": 2020,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 35000000,
+    "currency": "EUR",
+    "amount_label": "€35 million",
+    "status": null,
+    "summary": "Fined over advertising cookies, alongside Google's €100 million cookie fine that same month.",
+    "sources": [
+      {
+        "label": "Silicon UK",
+        "url": "https://www.silicon.co.uk/e-marketing/advertising/google-faces-french-150m-euro-fine-for-cookie-breach-435679/amp"
+      }
+    ]
+  },
+  {
+    "slug": "netflix-dutch-transparency-2024",
+    "company": "Netflix",
+    "title": "Unclear privacy information and incomplete data-access replies",
+    "authority": "Dutch AP",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 4750000,
+    "currency": "EUR",
+    "amount_label": "€4.75 million",
+    "status": "Netflix objected to the fine",
+    "summary": "Between 2018 and 2020, Netflix's privacy statement didn't clearly explain why it collected data, its legal basis, who data was shared with, or how long it was kept. Customers who asked what data Netflix held on them got incomplete answers. The complaint came from noyb via Austria; Netflix has since updated its policy.",
+    "sources": [
+      {
+        "label": "Stibbe",
+        "url": "https://stibbe.com/publications-and-insights/netflix-in-own-privacy-cliffhanger-eur-475-million-fine-from-dutch-gdpr"
+      },
+      {
+        "label": "CyberInsider",
+        "url": "https://cyberinsider.com/netflix-fined-e4-75-million-by-dutch-data-protection-authority-over-gdpr-violations/"
+      },
+      {
+        "label": "Voice of Nigeria / Reuters",
+        "url": "https://von.gov.ng/?p=375965"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-cispe-cloud-licensing-2024",
+    "company": "Microsoft",
+    "title": "CISPE complaint: cloud software licensing terms",
+    "authority": "European Commission complaint (settled with CISPE)",
+    "jurisdiction": "EU",
+    "year": 2024,
+    "category": "antitrust",
+    "outcome": "settlement",
+    "amount": 20000000,
+    "currency": "EUR",
+    "amount_label": "€20 million",
+    "status": null,
+    "summary": "To resolve an antitrust complaint filed with the European Commission by the Cloud Infrastructure Services Providers in Europe (CISPE), Microsoft paid €20 million and agreed to change licensing terms that penalised customers for running its software on competing European cloud providers.",
+    "sources": [
+      {
+        "label": "CISPE",
+        "url": "https://www.cispe.cloud/cispe-and-microsoft-agree-settlement-in-fair-software-licensing-case/"
+      },
+      {
+        "label": "Reuters",
+        "url": "https://www.reuters.com/technology/microsoft-clinches-deal-settle-cispe-antitrust-complaint-2024-07-10/"
+      }
+    ]
+  },
+  {
+    "slug": "equifax-data-breach-2019",
+    "company": "Equifax",
+    "title": "2017 breach of about 147 million people",
+    "authority": "US FTC, CFPB and 50 states and territories",
+    "jurisdiction": "US",
+    "year": 2019,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 575000000,
+    "currency": "USD",
+    "amount_label": "$575 million to $700 million",
+    "status": null,
+    "summary": "The 2017 breach exposed data on about 147 million people, including 145.5 million Social Security numbers. Equifax had been warned in March 2017 about a critical flaw but never made sure the patch was applied. The settlement included $300M for consumer credit monitoring (plus up to $125M more), $175M to the states and $100M to the CFPB.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/news-events/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related"
+      },
+      {
+        "label": "Help Net Security",
+        "url": "https://www.helpnetsecurity.com/2019/07/23/equifax-data-breach-settlement/"
+      },
+      {
+        "label": "My Compliance Resource",
+        "url": "https://mycomplianceresource.com/equifax-penalties-delayed-justice/"
+      }
+    ]
+  },
+  {
+    "slug": "yahoo-sec-undisclosed-breach-2018",
+    "company": "Yahoo",
+    "title": "SEC: 2014 breach hidden from investors",
+    "authority": "US SEC",
+    "jurisdiction": "US",
+    "year": 2018,
+    "category": "securities",
+    "outcome": "settlement",
+    "amount": 35000000,
+    "currency": "USD",
+    "amount_label": "$35 million",
+    "status": null,
+    "summary": "The SEC found Yahoo's managers knew about the 2014 breach but kept investors in the dark for more than two years. It was the first SEC action over failing to disclose a cyber breach, brought against Altaba, the former Yahoo. The breaches also knocked $350 million off Verizon's purchase price.",
+    "sources": [
+      {
+        "label": "Harvard Law School Forum",
+        "url": "https://corpgov.law.harvard.edu/2018/05/17/failure-to-disclose-a-cybersecurity-breach"
+      },
+      {
+        "label": "SecurityWeek",
+        "url": "https://www.securityweek.com/35-million-penalty-not-telling-investors-yahoo-hack"
+      }
+    ]
+  },
+  {
+    "slug": "yahoo-data-breach-class-action-2020",
+    "company": "Yahoo",
+    "title": "Data breach class action: all 3 billion accounts",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2020,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 117500000,
+    "currency": "USD",
+    "amount_label": "$117.5 million",
+    "status": null,
+    "summary": "The 2013 and 2014 breaches eventually turned out to cover all 3 billion Yahoo accounts; the 2013 breach was first announced as 1 billion and revised in October 2017. Yahoo agreed to a settlement fund for users whose names, email addresses and security questions were compromised.",
+    "sources": [
+      {
+        "label": "CBS News",
+        "url": "https://www.cbsnews.com/amp/news/yahoo-data-breach-117-5-million-settlement-reached"
+      }
+    ]
+  },
+  {
+    "slug": "capital-one-occ-cloud-breach-2020",
+    "company": "Capital One",
+    "title": "OCC penalty over the 2019 cloud breach",
+    "authority": "US OCC",
+    "jurisdiction": "US",
+    "year": 2020,
+    "category": "privacy",
+    "outcome": "fine",
+    "amount": 80000000,
+    "currency": "USD",
+    "amount_label": "$80 million",
+    "status": null,
+    "summary": "In 2019 a hacker exploited a cloud misconfiguration and accessed data on about 106 million people in the US and Canada, including roughly 140,000 Social Security numbers and 80,000 bank account numbers. Regulators fined Capital One for failing to assess risk properly before moving key IT to the public cloud.",
+    "sources": [
+      {
+        "label": "Banking Dive (OCC)",
+        "url": "https://www.bankingdive.com/news/capital-one-occ-consent-order-2019-data-breach-106-million-customers-paige-thompson-aws/632143/"
+      },
+      {
+        "label": "Banking Dive",
+        "url": "https://www.bankingdive.com/news/fed-terminates-capital-one-2020-enforcement-action-data-breach-aws-paige-thompson-occ-106-million/686725/"
+      }
+    ]
+  },
+  {
+    "slug": "capital-one-breach-class-action-2022",
+    "company": "Capital One",
+    "title": "2019 cloud breach class action",
+    "authority": "US federal court",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 190000000,
+    "currency": "USD",
+    "amount_label": "$190 million",
+    "status": "Capital One and AWS denied liability",
+    "summary": "Class settlement over the 2019 breach in which a hacker exploited a cloud misconfiguration and accessed data on about 106 million people in the US and Canada.",
+    "sources": [
+      {
+        "label": "Banking Dive",
+        "url": "https://www.bankingdive.com/news/fed-terminates-capital-one-2020-enforcement-action-data-breach-aws-paige-thompson-occ-106-million/686725/"
+      }
+    ]
+  },
+  {
+    "slug": "google-plus-api-leaks-2020",
+    "company": "Google",
+    "title": "Google+ API leaks",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2020,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 7500000,
+    "currency": "USD",
+    "amount_label": "$7.5 million",
+    "status": "Settled without admitting wrongdoing",
+    "summary": "Bugs in Google+ APIs exposed private profile data. One affected up to 500,000 users and was found in early 2018 but disclosed only months later; a second potentially affected 52.5 million. Google shut Google+ down and paid $5–$12 per claimant.",
+    "sources": [
+      {
+        "label": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/class-action/google-reaches-7-5-million-data-breach-settlement"
+      },
+      {
+        "label": "TechSpot",
+        "url": "https://www.techspot.com/news/86289-google-users-stand-get-up-12-each-75.html"
+      },
+      {
+        "label": "CISO Mag",
+        "url": "https://www.cisomag.com/google-agrees-to-pay-us-7-5m-over-google-data-breaches/"
+      }
+    ]
+  },
+  {
+    "slug": "ashley-madison-ftc-2016",
+    "company": "Ashley Madison",
+    "title": "Breach of 36 million users and fake profiles",
+    "authority": "US FTC and states",
+    "jurisdiction": "US",
+    "year": 2016,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 1600000,
+    "currency": "USD",
+    "amount_label": "$1.6 million",
+    "status": "A larger $17.5 million judgment was suspended because the company couldn't pay",
+    "summary": "The 2015 hack exposed 36 million users, even though the site had advertised itself as 100% secure. The FTC also found the operator, Ruby Corp, created about 24,000 fake female profiles to push men into paid memberships, and sold a paid Full Delete option but kept the data anyway.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://ftc.gov/news-events/press-releases/2016/12/operators-ashleymadisoncom-settle-ftc-state-charges-resulting"
+      },
+      {
+        "label": "Kelley Drye",
+        "url": "https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/one-less-regulator-affair-for-ashleymadison-com-site-operators-agree-to-settle-u-s-charges-stemming-from-2015-breach"
+      },
+      {
+        "label": "Next TV",
+        "url": "https://nexttv.com/news/ashleymadisoncom-settles-ftc-states-161808"
+      }
+    ]
+  },
+  {
+    "slug": "twitter-ftc-security-data-ads-2022",
+    "company": "Twitter (now X)",
+    "title": "Security phone numbers and emails used for ads",
+    "authority": "US FTC / DOJ",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 150000000,
+    "currency": "USD",
+    "amount_label": "$150 million",
+    "status": null,
+    "summary": "From 2013 to 2019, Twitter asked more than 140 million users for phone numbers and emails for account security, then also used them to target ads, breaking a 2011 FTC order. Twitter had to tell users and offer two-factor login that doesn't need a phone number.",
+    "sources": [
+      {
+        "label": "Malwarebytes",
+        "url": "https://www.malwarebytes.com/blog/news/2022/05/twitter-fined-150m-for-using-2fa-phone-numbers-for-marketing"
+      },
+      {
+        "label": "Arnold & Porter",
+        "url": "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2022/06/ftc-reaches-settlement-with-twitter"
+      },
+      {
+        "label": "SecureWorld",
+        "url": "https://www.secureworld.io/industry-news/twitter-fined-misuse-user-data"
+      }
+    ]
+  },
+  {
+    "slug": "vonage-ftc-cancellation-2022",
+    "company": "Vonage",
+    "title": "FTC: dark patterns blocking cancellation",
+    "authority": "US FTC",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "consumer",
+    "outcome": "settlement",
+    "amount": 100000000,
+    "currency": "USD",
+    "amount_label": "$100 million in refunds",
+    "status": null,
+    "summary": "Signing up was easy, but from 2017 customers could only cancel by phone with a retention agent. They were hit with undisclosed early-termination fees and sometimes kept being charged after cancelling. The FTC later sent refunds to about 389,000 people.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/node/79930"
+      },
+      {
+        "label": "FTC (refunds)",
+        "url": "https://www.ftc.gov/node/81882"
+      },
+      {
+        "label": "Hunton",
+        "url": "https://huntonak.com/privacy-and-information-security-law/100m-ftc-enforcement-action-against-internet-phone-service-provider-for-dark-patterns"
+      }
+    ]
+  },
+  {
+    "slug": "snap-illinois-biometric-2022",
+    "company": "Snap",
+    "title": "Snapchat Lenses and Filters: Illinois biometric privacy",
+    "authority": "Illinois state court",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "privacy",
+    "outcome": "settlement",
+    "amount": 35000000,
+    "currency": "USD",
+    "amount_label": "$35 million",
+    "status": "Snap denied collecting identifying biometric data",
+    "summary": "The claim was that Snapchat's Lenses and Filters scanned face geometry without consent, breaking Illinois' biometric privacy law. Illinois users received about $58–$117 each. The same law produced Facebook's $650M and Google's $100M settlements.",
+    "sources": [
+      {
+        "label": "IT Pro",
+        "url": "https://itpro.com/security/privacy/368880/snapchat-settles-for-35-million-in-illinois-biometrics-lawsuit"
+      },
+      {
+        "label": "TechXplore",
+        "url": "https://techxplore.com/news/2022-08-snapchat-parent-million-biometric-privacy.html"
+      },
+      {
+        "label": "PetaPixel",
+        "url": "https://petapixel.com/2022/08/24/snap-reaches-35m-settlement-in-privacy-lawsuit-over-lenses"
+      }
+    ]
+  },
+  {
+    "slug": "uber-waymo-trade-secrets-2018",
+    "company": "Uber",
+    "title": "Waymo v. Uber: self-driving trade secrets",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2018,
+    "category": "trade-secrets",
+    "outcome": "settlement",
+    "amount": 245000000,
+    "currency": "USD",
+    "amount_label": "About $245 million in Uber equity",
+    "status": "Uber maintained that no trade secrets had been used",
+    "summary": "Waymo said ex-Google engineer Anthony Levandowski took more than 14,000 confidential files, including lidar designs, before founding Otto, which Uber then bought. Uber settled four days into the jury trial, handing over 0.34% of its equity and promising not to use Waymo's technology.",
+    "sources": [
+      {
+        "label": "CNBC",
+        "url": "https://www.cnbc.com/2018/02/09/uber-waymo-lawsuit-settlement.html"
+      },
+      {
+        "label": "SiliconANGLE",
+        "url": "https://siliconangle.com/blog/2018/02/09/uber-waymo-trade-theft-battle-ends-surprise-245m-settlement/"
+      },
+      {
+        "label": "Carrier Management / Reuters",
+        "url": "https://www.carriermanagement.com/news/2018/02/09/175455.htm"
+      }
+    ]
+  },
+  {
+    "slug": "vmware-sec-order-backlog-2022",
+    "company": "VMware",
+    "title": "SEC: order backlog used to mislead investors",
+    "authority": "US SEC",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "securities",
+    "outcome": "settlement",
+    "amount": 8000000,
+    "currency": "USD",
+    "amount_label": "$8 million",
+    "status": null,
+    "summary": "The SEC said VMware deliberately delayed delivering license keys until just after quarter-end, shifting tens of millions in revenue into later quarters and hiding how much its business was slowing.",
+    "sources": [
+      {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing"
+      },
+      {
+        "label": "Business Insurance / Reuters",
+        "url": "https://www.businessinsurance.com/sec-charges-vmware-with-misleading-investors/"
+      }
+    ]
+  },
+  {
+    "slug": "ftx-bankman-fried-conviction-2024",
+    "company": "FTX",
+    "title": "Sam Bankman-Fried: customer funds stolen",
+    "authority": "US District Court, S.D. New York",
+    "jurisdiction": "US",
+    "year": 2024,
+    "category": "fraud",
+    "outcome": "conviction",
+    "amount": null,
+    "currency": null,
+    "amount_label": "25 years in prison",
+    "status": "He said he would appeal",
+    "summary": "Convicted on seven counts of fraud and conspiracy after FTX customers lost about $8 billion that was diverted to his trading firm, Alameda Research. The judge also found he had attempted witness tampering and lied on the stand.",
+    "sources": [
+      {
+        "label": "PBS / AP",
+        "url": "https://www.pbs.org/newshour/nation/ftx-founder-sam-bankman-fried-sentenced-to-25-years-in-prison"
+      },
+      {
+        "label": "OPB / NPR",
+        "url": "https://www.opb.org/article/2024/03/28/sam-bankman-fried-sentenced-to-25-years-in-prison-for-his-ftx-crimes/"
+      },
+      {
+        "label": "IANS",
+        "url": "https://ianslive.in/ftxs-ceo-sam-bankman-fried-sentenced-to-25-years-in-prison--20240328215127"
+      }
+    ]
+  },
+  {
+    "slug": "theranos-holmes-conviction-2022",
+    "company": "Theranos",
+    "title": "Elizabeth Holmes: investors defrauded",
+    "authority": "US District Court, N.D. California",
+    "jurisdiction": "US",
+    "year": 2022,
+    "category": "fraud",
+    "outcome": "conviction",
+    "amount": null,
+    "currency": null,
+    "amount_label": "11¼ years in prison",
+    "status": null,
+    "summary": "Convicted of defrauding investors about blood-testing machines that never worked as claimed; Theranos had quietly run patients' tests on third-party analysers instead. Former COO Ramesh \"Sunny\" Balwani was convicted separately on 12 counts.",
+    "sources": [
+      {
+        "label": "Axios",
+        "url": "https://www.axios.com/2022/11/18/elizabeth-holmes-fraud-trial-prison-sentence"
+      },
+      {
+        "label": "Engadget",
+        "url": "https://www.engadget.com/elizabeth-holmes-theranos-fraud-sentence-221816950.html"
+      },
+      {
+        "label": "Fox 13 Seattle",
+        "url": "https://www.fox13seattle.com/news/elizabeth-holmes-sentenced-to-11-years-in-federal-prison"
+      }
+    ]
+  },
+  {
+    "slug": "frank-javice-conviction-2025",
+    "company": "Frank",
+    "title": "Charlie Javice: fake users in the sale to JPMorgan",
+    "authority": "US District Court, S.D. New York",
+    "jurisdiction": "US",
+    "year": 2025,
+    "category": "fraud",
+    "outcome": "conviction",
+    "amount": null,
+    "currency": null,
+    "amount_label": "More than 7 years in prison",
+    "status": null,
+    "summary": "Javice claimed her student-aid startup had more than 4 million users when it had about 300,000, and backed the claim with a synthetic customer list. JPMorgan bought the startup for $175 million on that basis. She was convicted in March 2025 of bank, wire and securities fraud and conspiracy.",
+    "sources": [
+      {
+        "label": "ABC / AP",
+        "url": "https://abc7ny.com/post/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-aid-startup-frank/17906192/"
+      },
+      {
+        "label": "Fortune",
+        "url": "https://fortune.com/2025/09/30/charlie-javice-sentenced-7-years-prison-jpmorgan-frank-fraud"
+      }
+    ]
+  }
+]

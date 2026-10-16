@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+/* Design tokens go here (colors, fonts, type scale). */
+@theme {
+  /* The site-wide font: Tailwind's default font family is --font-sans. */
+  --font-sans: var(--font-josefin-sans), ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand: #2563eb;
+  --color-brand-hover: #1d4ed8;
+}
+
+@layer base {
+  /* No page scrolling behind an open popup. */
+  html:has(dialog[open]) {
+    @apply overflow-hidden;
+  }
+
+  body {
+    @apply flex min-h-screen flex-col bg-white text-slate-900 antialiased;
+  }
+}
